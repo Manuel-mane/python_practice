@@ -1,4 +1,4 @@
-# Practive Outline
+# Practice Outline
 
    In this practice repository, he following topics are covered:
    
