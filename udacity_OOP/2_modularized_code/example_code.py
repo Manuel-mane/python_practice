@@ -1,3 +1,4 @@
+
 from Gaussiandistribution import Gaussian
 
 gaussian_one = Gaussian(22, 2)
