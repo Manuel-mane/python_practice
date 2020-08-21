@@ -1,7 +1,4 @@
 
-language = "python3"
-run = "HackerRank.doc/30_days_challenges.doc/Day_18_Stack_and_Queues"
-
 '''
 Problem:
 A palindrome is a word, phrase, number, or other sequence of characters which reads the same backwards and forwards. Can you
